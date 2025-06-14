@@ -5,6 +5,6 @@ Fuzzy Logic Systems emerge as an alternative for computational intelligence to i
 
 ![me](https://github.com/Beprados/Fuzzy-Logic-Project/blob/main/griewank_de_fade.gif)
 
-Besides, the F and CR changing behaviour at run time are plotted along the FaDE minimization of a "needle in a haystack"-type test function, the Easom function - with global minima at ($\sqrt(\pi) , \pi$) .
+Besides, the F and CR changing behaviour at run time are plotted along the FaDE minimization of a "needle in a haystack"-type test function, the Easom function - with global minima at $(\pi , \pi)$ .
 
 ![me](https://github.com/Beprados/Fuzzy-Logic-Project/blob/main/easom_fade_with_fcr.gif)
